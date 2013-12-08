@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Atlantida/Scripts/SmoothCamera.cs">
+    <Files>
+      <File FileName="Assets/Atlantida/Scripts/C#/LevelManager.cs" Line="14" Column="2" />
+      <File FileName="Assets/Atlantida/Scripts/C#/_Calendar/CalPointerCheck.cs" Line="38" Column="3" />
+      <File FileName="Assets/Atlantida/Scripts/C#/_Fx/CircularRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Atlantida/Scripts/C#/Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Atlantida/Scripts/C#/GameInterface.cs" Line="19" Column="15" />
+      <File FileName="Assets/Atlantida/Scripts/C#/_Camera/CameraMove.cs" Line="125" Column="9" />
+      <File FileName="Assets/Atlantida/Scripts/C#/SaveGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Atlantida/Scripts/C#/_Controller/FPSController.cs" Line="58" Column="11" />
+      <File FileName="Assets/Atlantida/Scripts/SmoothCamera.cs" Line="14" Column="2" />
+      <File FileName="Assets/Atlantida/Scripts/C#/_Hub/Parchment/Parchment.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
